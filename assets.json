@@ -1,0 +1,69 @@
+[
+    {
+        "name": "AAPLx0",
+        "symbol": "AAPLx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/AAPLx.png",
+        "eth_address": "0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a",
+        "oft_adapter": "0xcCE737f3a8E69b03bC01269083AAd93e1098eAc2"
+    },
+    {
+        "name": "AMZNx0",
+        "symbol": "AMZNx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/AMZNx.png",
+        "eth_address": "0x3557ba345b01efa20a1bddc61f573bfd87195081"
+    },
+    {
+        "name": "NVDAx0",
+        "symbol": "NVDAx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/NVDAx.png",
+        "eth_address": "0xc845b2894dbddd03858fd2d643b4ef725fe0849d"
+    },
+    {
+        "name": "TSLAx0",
+        "symbol": "TSLAx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/TSLAx.png",
+        "eth_address": "0x8ad3c73f833d3f9a523ab01476625f269aeb7cf0"
+    },
+    {
+        "name": "GOOGLx0",
+        "symbol": "GOOGLx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/GOOGLx.png",
+        "eth_address": "0xe92f673Ca36C5E2Efd2DE7628f815f84807e803F"
+    },
+    {
+        "name": "METAx0",
+        "symbol": "METAx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/METAx.png",
+        "eth_address": "0x96702be57Cd9777f835117a809C7124fe4ec989A"
+    },
+    {
+        "name": "MSTRx0",
+        "symbol": "MSTRx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/MSTRx.png",
+        "eth_address": "0xae2f842ef90c0d5213259ab82639d5bbf649b08e"
+    },
+    {
+        "name": "QQQx0",
+        "symbol": "QQQx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/QQQx.png",
+        "eth_address": "0xa753A7395cAe905Cd615Da0B82A53E0560f250af"
+    },
+    {
+        "name": "CRCLx0",
+        "symbol": "CRCLx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/CRCLx.png",
+        "eth_address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB"
+    },
+    {
+        "name": "SPYx0",
+        "symbol": "SPYx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/SPYx.png",
+        "eth_address": "0x90A2a4c76b5D8c0bc892A69EA28Aa775a8f2dD48"
+    },
+    {
+        "name": "GLDx0",
+        "symbol": "GLDx0",
+        "logo": "https://tokens.xstocks0.xyz/assets/images/GLDx.png",
+        "eth_address": "0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9"
+    }
+]

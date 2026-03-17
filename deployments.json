@@ -1,0 +1,95 @@
+[
+    {
+        "address": "0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a",
+        "oft_adapter": "0xcCE737f3a8E69b03bC01269083AAd93e1098eAc2",
+        "ofts": [
+            {
+                "chain": "30110",
+                "address": "0x75C9B48347aFc31d3C87131745122462AB5acbD4"
+            },
+            {
+                "chain": "30184",
+                "address": "0x39A7B9e9Cdf3e5c0F52F9070999a22f4b7A3a53a"
+            },
+            {
+                "address": "0x7fC7Deac8312deCFa55218962D827dE534222500",
+                "chain": "30109"
+            }
+        ]
+    },
+    {
+        "address": "0x3557ba345b01efa20a1bddc61f573bfd87195081",
+        "oft_adapter": "0xb2597752b3442CC2547490ee896537e7735BdDA2",
+        "ofts": [
+            {
+                "chain": "30110",
+                "address": "0x3a14576C2c06039022Cc12A611944B2190e42F80"
+            },
+            {
+                "chain": "30184",
+                "address": "0x6D7746cdB99fB4882921Ad054B3589E1B8eDBDFb"
+            },
+            {
+                "address": "0x4403e5480E159e5575ed439474F7F01981F0343F",
+                "chain": "30109"
+            }
+        ]
+    },
+    {
+        "address": "0x8ad3c73f833d3f9a523ab01476625f269aeb7cf0",
+        "oft_adapter": "0xE06C6E3085881607D0b54f661594B4be2ACFCc17",
+        "ofts": [
+            {
+                "chain": "30110",
+                "address": "0xe86507baae74F1296Ea6E81Bc82A0454C3492360"
+            },
+            {
+                "chain": "30184",
+                "address": "0x2744F6e279A043a1220144c81682FAffdC21Adf1"
+            },
+            {
+                "chain": "30109",
+                "address": "0xe86507baae74F1296Ea6E81Bc82A0454C3492360"
+            }
+        ]
+    },
+    {
+        "address": "0xc845b2894dbddd03858fd2d643b4ef725fe0849d",
+        "oft_adapter": "0x1809c20D22eC5ab58be1BC70010562048b456527",
+        "ofts": [
+            {
+                "chain": "30110",
+                "address": "0x4403e5480E159e5575ed439474F7F01981F0343F"
+            },
+            {
+                "chain": "30184",
+                "address": "0x45069275570f64eAC14c85677c40076B30fEc9E4"
+            },
+            {
+                "chain": "30109",
+                "address": "0xB87E5d4f7F14abF20B7d7554a92b0cb1E2EAE42B"
+            }
+        ]
+    },
+    {
+        "address": "0x2380F2673C640fB67E2d6B55B44C62F0E0e69DA9",
+        "oft_adapter": "0x1C59e87b1A765C12E0069020E9959533b592B505",
+        "ofts": [
+            {
+                "chain": "30110",
+                "address": "0x7fC7Deac8312deCFa55218962D827dE534222500",
+                "chainName": "arbitrum"
+            },
+            {
+                "chainName": "base",
+                "address": "0x03A8561AE5d7140910d9ED962E32087cC304F7A6",
+                "chain": "30184"
+            },
+            {
+                "address": "0x4dDbaCdB1F986E58f859581f5bDfCe72f7CC38f8",
+                "chain": "30109",
+                "chainName": "polygon"
+            }
+        ]
+    }
+]
