@@ -14,6 +14,10 @@
             {
                 "address": "0x7fC7Deac8312deCFa55218962D827dE534222500",
                 "chain": "30109"
+            },
+            {
+                "chain": "30383",
+                "address": "0x03A8561AE5d7140910d9ED962E32087cC304F7A6"
             }
         ]
     },
@@ -32,6 +36,10 @@
             {
                 "address": "0x4403e5480E159e5575ed439474F7F01981F0343F",
                 "chain": "30109"
+            },
+            {
+                "chain": "30383",
+                "address": "0x501bB2477fE80f4CEeC0B6f7866A91281Feb5C8A"
             }
         ]
     },
@@ -50,6 +58,10 @@
             {
                 "chain": "30109",
                 "address": "0xe86507baae74F1296Ea6E81Bc82A0454C3492360"
+            },
+            {
+                "chain": "30383",
+                "address": "0x0f17fF207f2cE606712c63372aCea72742e0ecC4"
             }
         ]
     },
@@ -68,6 +80,10 @@
             {
                 "chain": "30109",
                 "address": "0xB87E5d4f7F14abF20B7d7554a92b0cb1E2EAE42B"
+            },
+            {
+                "chain": "30383",
+                "address": "0x0a8729F7eaB56e6980AeC7533288A7b13f7EAF64"
             }
         ]
     },
@@ -89,6 +105,11 @@
                 "address": "0x4dDbaCdB1F986E58f859581f5bDfCe72f7CC38f8",
                 "chain": "30109",
                 "chainName": "polygon"
+            },
+            {
+                "chain": "30383",
+                "address": "0xDFde89521461D0d6da8aAe2Da077d07c3325AE37",
+                "chainName": "plasma"
             }
         ]
     }
